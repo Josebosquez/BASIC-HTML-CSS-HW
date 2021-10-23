@@ -3,6 +3,7 @@ minus.style.backgroundColor = 'red';
 const add = document.querySelector('#add')
 add.style.backgroundColor = 'green';
 
+
 const counterCount = document.getElementById("counter")
 
 counter = 0
